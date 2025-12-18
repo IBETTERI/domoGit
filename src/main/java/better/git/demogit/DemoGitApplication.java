@@ -10,4 +10,5 @@ public class DemoGitApplication {
         SpringApplication.run(DemoGitApplication.class, args);
     }
 
+    public static void String("121");
 }
